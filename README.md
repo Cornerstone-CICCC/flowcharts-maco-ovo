@@ -12,7 +12,6 @@
 - Be clear when adding comments to your commits.
 
 ## Exercise 1
-
 Write an algorithm and draw a flowchart to convert the length in feet to centimeters.
 
 Pseudocode:
@@ -22,6 +21,12 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
+![Exercise1](flowcharts/Exercise1.png)
+Start　  
+Input ft  
+cm ← ft * 30  
+Output cm  
+End
 
 ## Exercise 2
 
@@ -34,6 +39,13 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Exercise2](flowcharts/Exercise2.png)
+Start　  
+Input the width (W)
+Input the length (L)  
+A ← W * L  
+Output A  
+End
 
 ## Exercise 3
 
