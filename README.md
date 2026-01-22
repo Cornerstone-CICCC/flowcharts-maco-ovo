@@ -22,11 +22,7 @@ Pseudocode:
 
 ### _Answer_
 ![Exercise1](flowcharts/Exercise1.png)
-Start　  
-Input ft  
-cm ← ft * 30  
-Output cm  
-End
+
 
 ## Exercise 2
 
@@ -40,12 +36,7 @@ Pseudocode:
 
 ### _Answer_
 ![Exercise2](flowcharts/Exercise2.png)
-Start　  
-Input the width (W)
-Input the length (L)  
-A ← W * L  
-Output A  
-End
+
 
 ## Exercise 3
 
@@ -54,13 +45,15 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+![Exercise3](flowcharts/Exercise3.png)
+
 
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
-
+![Exercise4](flowcharts/Exercise4.png)
 ## Exercise 5
 
 Draw the flowchart for the following:
@@ -77,3 +70,4 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![Exercise5](flowcharts/Exercise5.png)
