@@ -45,6 +45,20 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+- Algorithm
+1. Start
+2. Input three numbers (they are not equal to each other)
+3. Check if a > b
+    1. True   
+    Check if a > c then a is the largest   
+    Otherwise, c is the largest 
+    2. False   
+    Check if b > c then b is the largest  
+    Otherwise, c is the largest
+4. Print the largest number
+5. End
+     
+
 ![Exercise3](flowcharts/Exercise3.png)
 
 
@@ -53,7 +67,17 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+- Algorithm
+1. Start   
+2. Input the three side lengths: a, b, c  
+3. Check if they are positive numbers   
+4. Check if (a + b > c) AND (a + c > b) AND (b + c > a)
+5. If all conditions are true, print "Triangle is Possible"   
+Otherwise (else), print "Triangle is NOT Possible".
+6. End
 ![Exercise4](flowcharts/Exercise4.png)
+
+
 ## Exercise 5
 
 Draw the flowchart for the following:
